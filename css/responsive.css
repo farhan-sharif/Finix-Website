@@ -1,0 +1,24 @@
+@media screen and (max-width: 1410px) {
+    .navbar-brand img{
+        width: 85%;
+    }
+    .our-primary-menu li a {
+        padding: 10px 15px;
+    }
+    .header-social ul li {
+        margin-top: -105px;
+        margin-left: 20px;
+    }
+    .section-width {
+        margin: 0 20px;
+    }
+}
+
+@media screen and (max-width: 1332px) {
+    .navbar-brand img {
+        width: 74%;
+    }
+    .primary-menu li a {
+        padding: 10px 12px;
+    }
+}
